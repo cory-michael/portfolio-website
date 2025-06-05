@@ -1,5 +1,5 @@
 {
-  "name": "portfolio-website-nextjs",
+  "name": "portfolio-website",
   "version": "1.0.0",
   "description": "This is my personal portfolio website.",
   "main": "index.js",
@@ -10,8 +10,8 @@
     "lint": "next lint"
   },
   "keywords": [],
-  "author": "Masood Akhtar Vaheed",
-  "license": "ISC",
+  "author": "Cory Kolvinsky",
+  "license": "GPL-3.0",
   "dependencies": {
     "@chakra-ui/icons": "^2.1.0",
     "@chakra-ui/next-js": "^2.1.5",
@@ -36,5 +36,13 @@
   },
   "devDependencies": {
     "sass": "^1.64.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cory-michael/portfolio-website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cory-michael/portfolio-website/issues"
+  },
+  "homepage": "https://github.com/cory-michael/portfolio-website#readme"
 }

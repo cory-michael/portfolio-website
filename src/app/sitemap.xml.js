@@ -1,5 +1,5 @@
 export async function GET() {
-  const baseUrl = 'https://vaheedshaik.com';
+  const baseUrl = '';
   const staticPages = [
     '', // home
     'about',

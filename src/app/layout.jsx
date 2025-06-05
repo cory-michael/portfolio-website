@@ -2,12 +2,12 @@ import Favicon from "/public/images/favicon.png";
 import ClientRootLayout from "../components/ClientRootLayout";
 
 export const metadata = {
-  metadataBase: new URL('https://vaheedshaik.com'),
+  metadataBase: new URL(''),
   title: {
-    default: "Vaheed Shaik | Software Engineer",
-    template: "%s | Vaheed Shaik"
+    default: "Cory Kolvinsky | Software Engineer",
+    template: "%s | CK"
   },
-  description: "Welcome to Vaheed's Software Engineering Portfolio. Explore a diverse range of projects and see how I can bring your ideas to life. Let's connect and discuss your next venture!",
+  description: "",
   keywords: [
     "portfolio",
     "app",
@@ -30,9 +30,9 @@ export const metadata = {
     "portfolio website",
     "developer portfolio"
   ],
-  authors: [{ name: "Vaheed Shaik" }],
-  creator: "Vaheed Shaik",
-  publisher: "Vaheed Shaik",
+  authors: [{ name: "Cory Kolvinsky" }],
+  creator: "",
+  publisher: "",
   formatDetection: {
     email: false,
     address: false,
@@ -41,16 +41,16 @@ export const metadata = {
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://vaheedshaik.com',
-    title: 'Vaheed Shaik | Software Engineer',
-    description: 'Welcome to Vaheed\'s Software Engineering Portfolio. Explore a diverse range of projects and see how I can bring your ideas to life. Let\'s connect and discuss your next venture!',
-    siteName: 'Vaheed Shaik Portfolio',
+    url: '',
+    title: 'Cory K | Software Engineer',
+    description: '',
+    siteName: '',
     images: [
       {
         url: '/images/og-image.jpg',
         width: 1200,
         height: 630,
-        alt: 'Vaheed Shaik Portfolio Preview',
+        alt: '',
       },
     ],
   },
